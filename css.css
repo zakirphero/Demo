@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    color: rgb(91, 211, 26);
+   
+}
+.helf-width{
+    color: blueviolet;
+    width: 40%;
+    float: left;
+    margin-left: px;
+    border: 1px solid red;
+    padding: 20px;
+    
+    background-image: url("picture/top-banner.png");
+  
+   }
+   #left-site{
+    margin-left: 40px;
+
+   }
+   .top-banner{
+    
+    background-repeat: no-repeat;
+   
+   }
+   section{
+    height: 400px;
+   }
+   body{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+  .link{
+    text-decoration: none;
+    padding: 9px 15px ;
+    background-image: linear-gradient( rgb(10, 222, 52), rgb(247, 87, 90), rgb(171, 70, 222));
+   
+
+ border-radius: 10px;
+ color: white;
+ font-weight: 700;
+
+  }
+  h3{
+    text-align: center;
+  }
+  .img-hight{
+    width: 40%;
+  
+  }
+  img{
+    width: 40%;
+    margin-left: 100px;
+    padding-left: 100px;
+
+  }
+  span{
+    color: gold;
+  }
+  .float{
+    width: 40%;
+    float: left;
+  }
+ .WIDTH-CSS{
+    width: 40%;
+    float: left;
+    margin: 30px;
+   
+   
+ }
+ .hight-man{
+    width: 80%;
+ }
+ #hight{
+   margin-left: 30px;
+    color: blue;
+ }
+ section{
+    height: 300px;
+ }
+ h4{
+    padding-left: 100px;
+ }
+ .float{
+    padding-right: 50px;
+ }
